@@ -4,7 +4,7 @@
     "response": {
       "latitude": -8.681898,
       "longitude": 115.193794,
-      "generationtime_ms": 0.48351287841796875,
+      "generationtime_ms": 0.4832744598388672,
       "utc_offset_seconds": 28800,
       "timezone": "Asia/Makassar",
       "timezone_abbreviation": "GMT+8",
@@ -1492,7 +1492,7 @@
     "response": {
       "latitude": -8.611599,
       "longitude": 115.094666,
-      "generationtime_ms": 0.5675554275512695,
+      "generationtime_ms": 0.5185604095458984,
       "utc_offset_seconds": 28800,
       "timezone": "Asia/Makassar",
       "timezone_abbreviation": "GMT+8",
@@ -2980,7 +2980,7 @@
     "response": {
       "latitude": -8.260105,
       "longitude": 115.21851,
-      "generationtime_ms": 14.406204223632812,
+      "generationtime_ms": 13.451457023620605,
       "utc_offset_seconds": 28800,
       "timezone": "Asia/Makassar",
       "timezone_abbreviation": "GMT+8",
@@ -4468,7 +4468,7 @@
     "response": {
       "latitude": -8.471002,
       "longitude": 115.2835,
-      "generationtime_ms": 0.546574592590332,
+      "generationtime_ms": 0.4699230194091797,
       "utc_offset_seconds": 28800,
       "timezone": "Asia/Makassar",
       "timezone_abbreviation": "GMT+8",
@@ -5956,7 +5956,7 @@
     "response": {
       "latitude": -8.822495,
       "longitude": 115.159615,
-      "generationtime_ms": 0.5168914794921875,
+      "generationtime_ms": 0.6557703018188477,
       "utc_offset_seconds": 28800,
       "timezone": "Asia/Makassar",
       "timezone_abbreviation": "GMT+8",
@@ -7444,7 +7444,7 @@
     "response": {
       "latitude": -8.260105,
       "longitude": 115.37276,
-      "generationtime_ms": 23.67579936981201,
+      "generationtime_ms": 14.847636222839355,
       "utc_offset_seconds": 28800,
       "timezone": "Asia/Makassar",
       "timezone_abbreviation": "GMT+8",
