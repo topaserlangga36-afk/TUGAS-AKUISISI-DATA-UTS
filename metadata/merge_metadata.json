@@ -1,0 +1,27 @@
+{
+  "file_name": "hasil_merge_bps_weather.csv",
+  "created_at": "2026-11-26T09:15:24.747052+00:00",
+  "rows": 66,
+  "columns": [
+    "lokasi",
+    "periode",
+    "temperatur_rata2_c",
+    "curah_hujan_total_mm",
+    "kecepatan_angin_maks_kmh",
+    "jumlah_wisatawan"
+  ],
+  "file_size_bytes": 3769,
+  "md5": "fcd00968e9082d08e81edd350e6748c9",
+  "sources": [
+    "BPS Bali",
+    "Open-Meteo Historical Weather API"
+  ],
+  "join_key": [
+    "periode"
+  ],
+  "merge_type": "inner",
+  "validate": "many_to_one",
+  "duplicate_location_period": 0,
+  "duplicate_full_rows": 0,
+  "interpretation_note": "Jumlah wisatawan merupakan agregat tingkat Provinsi Bali, bukan jumlah pengunjung tiap destinasi."
+}

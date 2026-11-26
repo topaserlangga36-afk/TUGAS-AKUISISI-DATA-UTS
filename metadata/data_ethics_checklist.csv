@@ -1,0 +1,10 @@
+﻿no,aspek,status,bukti
+1,Tujuan dan relevansi pengumpulan,Terpenuhi,Tujuan akademik dinyatakan pada pendahuluan notebook; variabel wisatawan dan cuaca relevan dengan topik pariwisata.
+2,Legalitas sumber dan lisensi,Perlu verifikasi dokumen sumber,BPS: halaman tabel dan ketentuan penggunaan portal. Open-Meteo: https://open-meteo.com/en/docs/historical-weather-api. Wikipedia: https://en.wikipedia.org/wiki/Wikipedia:Copyrights.
+3,Transparansi sumber/provenance,Terpenuhi setelah provenance dibuat,"URL, tanggal akses, lisensi/ketentuan, ukuran file, dan MD5 dicatat pada metadata/provenance.csv."
+4,PII (data identitas pribadi),Tidak ditemukan pada data agregat yang dipilih,"Kolom dataset BPS yang digunakan berisi bulan, tahun, dan jumlah wisatawan; API berisi cuaca; scraping berupa tabel halaman publik. Periksa ulang kolom aktual."
+5,Quasi-identifier,Ada pada tingkat agregat,"Periode waktu dan lokasi merupakan quasi-identifier kontekstual, tetapi tidak menunjuk individu pada dataset agregat ini."
+6,Minimisasi data,Terpenuhi,Hanya variabel yang relevan untuk analisis wisatawan dan cuaca yang dipertahankan dalam tabel olahan.
+7,Akurasi dan kualitas data,Diperiksa melalui validasi,"Notebook memeriksa tipe data, nilai kosong, periode, jumlah baris, dan duplikasi kunci."
+8,Keamanan dan kepatuhan akses,Diperiksa saat eksekusi,"Request menggunakan timeout, User-Agent, retry, jeda, dan pemeriksaan robots.txt sebelum scraping."
+9,Penggunaan dan atribusi yang bertanggung jawab,Wajib dipertahankan saat publikasi,Sumber dicantumkan; interpretasi tidak menyatakan angka wisatawan provinsi sebagai pengunjung masing-masing destinasi.
